@@ -1,0 +1,2 @@
+rootProject.name = 'bookstore-events'
+include 'order-service'
